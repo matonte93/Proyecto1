@@ -6,6 +6,7 @@ li{
         
 }
 ul{
+    background-color: black;
     max-width:max-content;
     border-style: double;
     border-width: 10px;
@@ -14,7 +15,8 @@ ul{
 }
 
 h1{
-    border-width: 35px;
+    border-color: whitesmoke;
+    border-width: 25px;
     text-align: center;
     border-style: dashed;
     font-family: 'Times New Roman', Times, serif;
@@ -28,9 +30,9 @@ p{
 }
 
 a{
-    color: red;
+    color: whitesmoke;
 }
 body{
     padding: 0px 430px;
-    background-color: rgb(11, 151, 11);
+    background-color: rgb(175, 4, 4);
 }
